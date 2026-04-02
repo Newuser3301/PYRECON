@@ -165,7 +165,7 @@ class PacketCrafter:
             'P': 'P',  # PSH
             'U': 'U',  # URG
             'E': 'E',  # ECE
-            'C': 'C',  # CWR
+            'C': 'C',  # CW
         }
         
         tcp_flags = 0
